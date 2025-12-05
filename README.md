@@ -6,7 +6,7 @@ This project is my personal Windows Active Directory lab, built on Hyper-V, to p
 
 ## Lab Overview
 
-- **Hypervisor:** Hyper-V on Windows 10/11
+- **Hypervisor:** Hyper-V on Windows 11
 - **Domain:** `middle-earth.local`
 - **Servers & Clients:**
   - 1 × Windows Server (Domain Controller, DNS)
