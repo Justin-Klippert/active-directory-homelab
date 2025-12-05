@@ -32,7 +32,7 @@ This project is my personal Windows Active Directory lab, built on Hyper-V, to p
   - Login banner (“Welcome to Middle-Earth”)
   - Password policy
   - Screen lock timeout
-  - (Optional) Mapped drives for file shares
+  - Local admin group
 
 - **File & Permission Management**
   - Shared folders with NTFS and share permissions
