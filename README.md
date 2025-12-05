@@ -11,7 +11,6 @@ This project is my personal Windows Active Directory lab, built on Hyper-V, to p
 - **Servers & Clients:**
   - 1 × Windows Server (Domain Controller, DNS)
   - 1 × Windows 11 workstation (domain-joined)
-  - (Optional) 1 × pfSense or router VM for simulated WAN
 
 - **Virtual Networking:**
   - Internal virtual switch for LAN
