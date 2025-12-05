@@ -38,5 +38,5 @@ This project is my personal Windows Active Directory lab, built on Hyper-V, to p
   - Access based on security groups
   - Mapped network drives
  
-- **See Screenshots for Examples**
+## See Screenshots for Examples
 
