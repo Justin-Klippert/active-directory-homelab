@@ -34,16 +34,7 @@ This project is my personal Windows Active Directory lab, built on Hyper-V, to p
   - Local admin group
 
 - **File & Permission Management**
-  - Shared folders with NTFS and share permissions
+  - Shared folders with share permissions
   - Access based on security groups
+  - Mapped network drives
 
----
-
-## Skills Demonstrated
-
-- Installing and configuring Windows Server roles (AD DS, DNS)
-- Creating and managing OUs, users, computers, and groups
-- Designing and applying Group Policy Objects (GPOs)
-- Managing share permissions
-- Working with virtual networking in Hyper-V
-- Troubleshooting domain join, DNS, and authentication issues
