@@ -39,20 +39,11 @@ This project is my personal Windows Active Directory lab, built on Hyper-V, to p
 
 ---
 
-## Repository Contents
-
-- `diagrams/` – Network and domain diagrams
-- `screenshots/` – Screenshots of AD, OU structure, GPOs, shares, etc.
-- `scripts/` – PowerShell scripts used in the lab (e.g., bulk user creation)
-- `notes/` – Troubleshooting notes and lessons learned
-
----
-
 ## Skills Demonstrated
 
 - Installing and configuring Windows Server roles (AD DS, DNS)
 - Creating and managing OUs, users, computers, and groups
 - Designing and applying Group Policy Objects (GPOs)
-- Managing NTFS and share permissions
+- Managing share permissions
 - Working with virtual networking in Hyper-V
 - Troubleshooting domain join, DNS, and authentication issues
