@@ -14,7 +14,6 @@ This project is my personal Windows Active Directory lab, built on Hyper-V, to p
 
 - **Virtual Networking:**
   - Internal virtual switch for LAN
-  - NAT/External switch for internet access from the lab
 
 ---
 
