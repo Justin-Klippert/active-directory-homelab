@@ -41,5 +41,6 @@ Both the Windows Server and Windows 11 OS were fully updated on a NAT vSwitch be
   - Mapped network drives
  
 ## See Screenshots for Examples
+https://github.com/Justin-Klippert/active-directory-homelab/tree/main/screenshots
 
 
