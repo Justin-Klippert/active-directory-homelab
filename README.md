@@ -1,6 +1,7 @@
 # Active Directory Homelab (Hyper-V)
 
-This project is my personal Windows Active Directory lab, built on Hyper-V, to practice real-world IT skills like domain management, Group Policy, user and group administration, and troubleshooting.
+A very simple Active Directory lab built on Hyper-V to practice real-world IT skills like domain management, Group Policy, and user/group administration.
+Both the Windows Server and Windows 11 OS were fully updated on a NAT vSwitch before I sysprepped them both to save images of the VHDs for easy deployment later.
 
 ---
 
@@ -25,12 +26,13 @@ This project is my personal Windows Active Directory lab, built on Hyper-V, to p
 
 - **Users and Groups**
   - Test users (e.g., Gandalf, Frodo, Aragorn, etc.)
-  - Security groups for role-based access (e.g., IT-Admins, Fellowship)
+  - Security groups for role-based access (e.g., Istari, The-Fellowship, etc.)
 
 - **Group Policy**
   - Login banner (“Welcome to Middle-Earth”)
   - Password policy
-  - Screen lock timeout
+  - Lockout policy
+  - Desktop wallpaper policy
   - Local admin group
 
 - **File & Permission Management**
